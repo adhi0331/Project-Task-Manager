@@ -1,0 +1,37 @@
+button {
+    position: absolute;
+    width: 510px;
+    height: 117px;
+    left: calc(50% - 510px/2 - 8px);
+    top: calc(50% - 117px/2 + 149.5px);
+
+    background: #45A29E;
+    box-shadow: 2px 4px 2px rgba(197, 198, 199, 0.5);
+    border-radius: 75px;
+
+    text-align: center;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 56px;
+
+    color: #1F2833;
+
+}
+
+p {
+    position: absolute;
+    width: 253px;
+    height: 53px;
+    left: 570px;
+    top: 635px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 56px;
+
+    color: #1F2833;
+}
